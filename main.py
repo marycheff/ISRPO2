@@ -1,7 +1,7 @@
 import math
 
 def y(x):
-    return x**2 - math.exp(x)  
+    return x**2 - math.e ** x
 
 
 X0 = float(input("X0: "))
